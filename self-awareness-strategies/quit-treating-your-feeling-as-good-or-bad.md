@@ -6,12 +6,17 @@
 - goal: try to list 10 emotions that are unique to yourself
 - definition: emotions unique to yourself means that compared to ordinary people, these emotions are stronger inside of you
 
-# anwser
+# anwsers
 <table>
-	<tr>
+	<th>
 		<td>Emotions</td>
 		<td>Possible Bad Effect</td>
 		<td>Possible Good Effect</td>
+	</th>
+	<tr>
+		<td>passive ecercises</td>
+		<td>a bad health status<br/>cannot focus on stuff long time<br/>an obstacle of great career</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>irascibility</td>
@@ -29,38 +34,33 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>passive ecercises</td>
-		<td>a bad health status<br/>cannot focus on stuff long time<br/>an obstacle of great career</td>
+		<td>too quick</td>
+		<td>easy to be triggered</br>others cannot follow you<br/>response too much<br/></td>
 		<td></td>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td></td>
+		<td>too complex and far</td>
+		<td>unrealistic<br/>unreasonable<br/>a killer of trustible relationship<br/></td>
 		<td></td>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td></td>
+		<td>afraid of trying unsure stuff</td>
+		<td>sometimes it's your own emotions only, not reality<br/>missing many opportunities</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
+		<td>inability of speaking alternatively</td>
+		<td>no bolt on your mouth<br/>others may accept the opposite stuff<br/></td>
 		<td></td>
 	</tr>
 	<tr>
+		<td>verbose</td>
+		<td>insists on one's expression<br/>others could be bothered</td>
 		<td></td>
-		<td></td>
+	</tr>
+	<tr>
+		<td>same ability demands to others</td>
+		<td>others maybe not good at some stuff<br/>too strict to be unfailr<br/></td>
 		<td></td>
 	</tr>
 </table>
